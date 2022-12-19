@@ -7,3 +7,4 @@ One of the APIs makes Robot avatars, and the other produces placeholder data for
 
 Andrei also used this section of the course to go over refactoring code and updating versions, putting things on GitHub, and deploying to the web. It's a nice "warm-up" for the main project of the course.
 
+deployed on Netlify https://leafy-hummingbird-6ff6d3.netlify.app/ 
